@@ -1,0 +1,8 @@
+target/**/*
+logs/**/*
+bin/**/*
+!src/
+.settings
+.classpath
+.project
+derby.log
